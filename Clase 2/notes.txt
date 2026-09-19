@@ -1,0 +1,18 @@
+5 V's:
+    Volumen
+    Velocidad
+    Variedad
+    Veracidad
+    Valor
+
+Practica 1:
+
+En Kagle
+Elegir 2 bases de datos, 1 basesita (1000 datos) y 1 basesota con (1 millon). Deben de tener
+almenos 3 variables diferentes cada una.
+
+
+De que trata o habla cada base de datos CSV?. A traves de Excel, obtendran media,
+ moda y mediana de cada variable. Ademas de que graficaran cada variable con respecto a 
+ una variable de interes
+
